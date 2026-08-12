@@ -1,4 +1,3 @@
-from flask import FlaskDoesNotExist, jsonify
 from flask import Flask, jsonify
 
 app = Flask(__name__)
